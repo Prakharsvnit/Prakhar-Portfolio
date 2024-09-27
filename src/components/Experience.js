@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { FaBriefcase, FaCalendarAlt, FaMapMarkerAlt } from 'react-icons/fa';
+import { FaCalendarAlt, FaMapMarkerAlt } from 'react-icons/fa';
 
 const ExperienceSection = styled.section`
   min-height: 100vh;
